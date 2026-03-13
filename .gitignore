@@ -1,0 +1,11 @@
+# Claude
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.pptx
+*.png
+serve.ps1
